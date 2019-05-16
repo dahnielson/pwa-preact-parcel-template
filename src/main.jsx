@@ -9,7 +9,7 @@ import './main.css'
 
 render(
   <div id='app'>
-    <h1>Min Webbapp</h1>
+    <h1>PWA Template</h1>
   </div>,
   document.body,
   document.getElementById('app')
