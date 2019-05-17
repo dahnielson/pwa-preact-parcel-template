@@ -1,5 +1,5 @@
 {
-  "name": "pwa-template",
+  "name": "pwa-preact-parcel-template",
   "private": true,
   "scripts": {
     "start": "yarn serve",
